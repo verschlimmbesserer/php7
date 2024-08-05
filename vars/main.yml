@@ -1,0 +1,14 @@
+---
+
+php7_packages:
+  - php7.2-cli
+  - php7.2-sqlite3
+  - php-net-dns2
+  - php7.2-gd
+  - php7.2-curl
+  - php7.2-mbstring
+  - php-mail
+  - php-pear
+  - php7.2-soap
+  - php7.2-fpm
+  - php7.2-xml

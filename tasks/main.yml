@@ -1,0 +1,7 @@
+---
+
+- name: "Install php7"
+  ansible.builtin.apt:
+    name: "{{ item }}"
+    state: present
+  loop: "{{ php_packages }}"
